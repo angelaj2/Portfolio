@@ -9,5 +9,7 @@ I hope to learn more about how to best utilize data to make better presentations
 
 # Portfolio
 Economist Article Critque
+
 Visualizing Government Debt
+
 Final Project
