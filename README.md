@@ -10,6 +10,8 @@ I hope to learn more about how to best utilize data to make better presentations
 # Portfolio
 Economist Article Critque
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7205601"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Visualizing Government Debt
 
 Final Project
