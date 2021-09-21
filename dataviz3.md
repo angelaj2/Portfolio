@@ -1,10 +1,11 @@
 
-https://datausa.io/profile/soc/actors#ethnicity
+<iframe width="720px" height="480px" src="https://datausa.io/profile/soc/actors/demographics/ethnicity?viz=true" frameborder="0" ></iframe>
 
 I thought that this was an interesting data visualization because it contained a lot of information and came from a fascinating dataset. However, I thought this dataset could be better utilized to make a point or highlight interesting changes in the industry rather than just conveying basic information. 
 
 This was my idea for how to change this data visualization. One of the things that I found most interesting was the increase in multi-racial actors over the years, especially compared to the US population. 
-https://1drv.ms/u/s!ApsvtglZLB5jjBB_QTJ9h9pQKQsP
+![image](https://user-images.githubusercontent.com/90277950/134102877-78a37035-4249-4821-9ee4-b0eff48e76b5.png)
+
 
 I showed this graph to a couple of my friends to see what they thought. These were their responses:
 
