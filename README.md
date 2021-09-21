@@ -11,5 +11,7 @@ I hope to learn more about how to best utilize data to make better presentations
 
 [Visualizing Government Debt](/dataviz2.md) 
 
+[Critique by Design](/dataviz3.md)
+
 
 Final Project
