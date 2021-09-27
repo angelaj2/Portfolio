@@ -14,4 +14,4 @@ I hope to learn more about how to best utilize data to make better presentations
 [Critique by Design](/dataviz3.md)
 
 
-Final Project
+[Final Project](/final_project_AngelaJ.md)
