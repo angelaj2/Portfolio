@@ -50,22 +50,27 @@ My call to action is pretty simple. Be more aware of what you're watching. Don't
 
 I asked three people a series of questions about my graphs. These are the results.
 
-# Person 1
+## Person 1
 Pie Chart visualization
 
 - What does it seem like this graph is trying to tell you?
+
 It looks like it’s trying to tell me that sitcoms are going away over the last thirty years.
 
 - What is the message of this graph?
+
 People have other interests besides sitcoms. Having lived through other sitcoms, it seems like the graph is saying that people are interested in other content.
 
 - Who do you think the intended audience is for this graph?
+
 People of my generation (50s, 60s), who lived through the sitcom era, rather than your generation, who has experienced very different types of media. I think the target audience is my generation, but your generation can look back and realize what it was like. But I think the message is the same either way. 
 
 - Is there anything about this graph that confuses you?
+
 The only thing that confused me was the last graph because there was no green. It also made me want donuts. The years being so high above the image at first made it difficult to understand what I was looking at.
 
 - Do you think there is a better way to tell this story?
+
 Well, it depends. If your goal is to describe the growth/waning of a genre in media, if your desire is to communicate in greater detail, maybe there would be a better way. However, if you’re just trying to state facts, this works well. I would like more details, maybe going into the why of it all. 
 
 
@@ -120,7 +125,7 @@ No, I don’t know, this particular graph bothers me, but I’m not sure why.
 
 
 
-# Person 2
+## Person 2
 
 Pie Chart visualization
 
@@ -192,7 +197,7 @@ The south African, why is he in his own category?
 Probably. 
 
 
-# Person 3
+## Person 3
 
 Bar Chart visualization
 
