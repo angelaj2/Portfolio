@@ -27,7 +27,8 @@ I plan to use this data in the form of bar charts, pie charts, and line graphs w
 # Method and Medium
 I plan to execute my final project using Shorthand. This will allow me to display and explain my data with the purpose of telling this story. Using Shorthand, as opposed to Power Point or some other medium, will allow me to cohesively display my data visualizatins in a way that will be pleasing and engaging to audiences, while allowing me to scroll quickly through my points in the allotted time. 
 
-## Part II
+
+# Part II
 
 # Storyboard and Feedback
 
