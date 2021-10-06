@@ -32,7 +32,7 @@ I plan to execute my final project using Shorthand. This will allow me to displa
 
 # Storyboard and Feedback
 
-For my project, I am examining how the landscape of television is changing and who we are leaving behind. Although television as a whole is becoming more diverse, nielsen shows that black actors make up 24.7% of broadcast television. However, it is important to examine what roles these actors are playing. This graph shows how the number of black leads has, if anything, gone down since 1990. 
+For my project, I am examining how the landscape of television is changing and who we are leaving behind. Although television as a whole is becoming more diverse, nielsen shows that black actors make up 24.7% of broadcast television. However, it is important to examine what roles these actors are playing. This graph shows how the number of black leads has actually gone down since 1990. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7451347"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The 90s were a real turning point for black sitcoms. This graph shows how the early 90s were a bastion of black sitcoms in comparison to only 10 years later. 
