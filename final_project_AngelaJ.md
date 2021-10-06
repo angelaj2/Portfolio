@@ -239,7 +239,7 @@ I don’t know. People who like graphs. Those who are interested in television h
 
 - Is there anything about this graph that confuses you?
 
-No
+Nope
 
 - Do you think there is a better way to tell this story?
 
