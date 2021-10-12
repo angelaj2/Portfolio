@@ -269,11 +269,11 @@ No, I feel like you could extend the time of it, but generally, it’s a good vi
 
 
 This wireframing was very helpful. I did not realize that the stacked bar chart was a little confusing. It caused me to make these changes. They're small, but I think it makes a difference. 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7451347"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/7451347"> src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 It also caused me to change the color scheme of the pie chart.
-<div class="flourish-embed flourish-chart" data-src="visualisation/7447734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/7447734"> src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I appreciated the suggestions for the line graph as well. For my final presentation, I will probably use people figures instead of the line graph, if, after more wireframing, I find that it is more effective. However, most of the people I asked liked the visualization and found it useful. 
 
