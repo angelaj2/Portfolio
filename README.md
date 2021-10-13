@@ -15,3 +15,5 @@ I hope to learn more about how to best utilize data to make better presentations
 
 
 [Final Project](/final_project_AngelaJ.md)
+
+[Final Project: Part III](Final_project_III_AngelaJ.md)
