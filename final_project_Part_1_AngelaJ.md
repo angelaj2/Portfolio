@@ -1,3 +1,6 @@
+# Part I
+
+
 # Outline
 In this project, I am hoping to show how while sitcoms in general are becoming more diverse, sitcoms that star and feature primarily black leads have actually been decreasing over time.
 For my story structure, I am hoping to begin with listing several of the most famous black sitcoms from the 90s and talking about how these were some of the most iconic television shows of the era. Although the 90s were a time when tv was famously segregated into "black shows" and "white shows", 15 of the top 20 shows for black audiences were also among white audiences' top 20 as well. 
