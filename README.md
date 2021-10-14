@@ -15,6 +15,6 @@ I hope to learn more about how to best utilize data to make better presentations
 
 [Final Project: Part I](/final_project_Part_1_AngelaJ.md) 
 
-[Final Project: Part II](final_project_II_AngelaJ.md)
+[Final Project: Part II](/Final_project_II_Angelaj.md)
 
 [Final Project: Part III](/Final_project_III_AngelaJ.md)
