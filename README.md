@@ -13,7 +13,8 @@ I hope to learn more about how to best utilize data to make better presentations
 
 [Critique by Design](/dataviz3.md)
 
+[Final Project: Part I](/final_projectII_Angelaj.md)
 
-[Final Project](/final_project_AngelaJ.md)
+[Final Project: Part II](/final_project_Part_I_AngelaJ.md)
 
-[Final Project: Part III](Final_project_III_AngelaJ.md)
+[Final Project: Part III](/Final_project_III_AngelaJ.md)
